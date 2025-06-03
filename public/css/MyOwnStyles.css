@@ -1,0 +1,41 @@
+/* styles.css */
+
+/* General font styles */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary, .btn-info, .btn-warning, .btn-secondary, .btn-success {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Table header style */
+.thead-dark th {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.matching-rows {
+    background-color: #f8f9fa;
+    display: none;
+}
+
+.unmatched-row {
+    background-color: #f8f9fa;
+}
+
+.match-section, .unmatch-section {
+    display: none;
+}
+
+.match-section.active {
+    display: block;
+}
+
+.unmatch-section.active {
+    display: block;
+}
