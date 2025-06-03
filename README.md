@@ -52,6 +52,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 how to use
 
 php artisan key:generate
+
 php artisan serve
 
 
