@@ -49,12 +49,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
 
-how to use
-
-php artisan key:generate
-
-php artisan serve
-
 
 ## Contributing
 
